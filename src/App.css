@@ -1,0 +1,39 @@
+body{
+  background-color: aliceblue;
+}
+
+.result {
+  height: 60px;
+  background-color:rgb(178, 127, 154);
+  width: 100%;
+  
+}
+
+.result p {
+  font-size:50px;
+  margin: 5px;
+  align-items: center;
+  color:blueviolet;
+
+}
+h1{
+  color: blueviolet;
+}
+.calculator {
+  max-width: 600px;
+  margin:  0 auto;
+  text-align: center;
+  margin-top: 5rem;
+  border: 5px solid blueviolet;
+}
+
+.button {
+  display: block;
+  background-color:rgb(155, 30, 103);
+}
+
+button {
+  width: 20%;
+  height: 70px;
+  font-size: 30px;
+}
